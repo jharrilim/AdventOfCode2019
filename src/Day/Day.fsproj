@@ -4,7 +4,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="One.fs" />
+    <Compile Include="One/One.fs" />
+    <Compile Include="Two/Two.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>

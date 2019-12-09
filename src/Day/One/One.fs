@@ -38,3 +38,5 @@ module PartTwo =
         | _ -> 0.0
 
     let output = Seq.sumBy calc input
+
+
